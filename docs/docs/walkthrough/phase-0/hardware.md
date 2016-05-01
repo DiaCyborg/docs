@@ -138,7 +138,7 @@ Repeated wireless communication with the pump drains the battery quite quickly. 
 
 ### Cases
 
-The Raspberry Pi is extremely minimalistic and does not come in a protective case. This is fine for development work, but presents an issue for day-to-day use. There are hundreds of cases available, but here some examples of what others are using in their OpenAPS builds.
+The Raspberry Pi is extremely minimalistic and does not come in a protective case. This is fine for development work, but presents an issue for day-to-day use. There are hundreds of cases available, but here some is an example of what others are using in their OpenAPS builds.
 
 [JBtek® Jet Black Case for Raspberry Pi B+ & Raspberry Pi 2 Model B](http://www.amazon.com/gp/product/B00ONOKPHC)
 
